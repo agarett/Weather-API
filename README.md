@@ -2,6 +2,7 @@
 **Weather API Project**
 
 **Summary**
+
 This project involved using the Open Weather Map API to pull current weather information from over 500 cities across the world. The Citipy library was used to select cities based on a randomly generated list of latitudes and longitudes. Current temperature, humidity, cloudiness, and wind speed were then added to a dataframe and graphed to see how weather changes in relation to latitude and the Equator.
 
 **Key Findings**
